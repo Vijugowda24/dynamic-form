@@ -10,7 +10,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - [Vite](https://vitejs.dev/)
 
 
-## Getting Started
+# Getting Started
 
 Instructions on how to set up the project locally. Include steps like:
 
@@ -18,3 +18,9 @@ Instructions on how to set up the project locally. Include steps like:
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open the application in your browser: `http://localhost:5173`
+
+# Preview
+
+./public/screenshot.png
+
+I have added a screenshot in the "public" folder.
