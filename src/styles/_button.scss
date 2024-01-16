@@ -1,0 +1,16 @@
+@import '../styles/variable';
+
+button{
+  padding: .6rem;
+  border:none;
+  color: $whiteColor;
+  font-weight: 600;
+  background-color: $primaryColor;
+  cursor: pointer;
+  min-height: 40px;
+  height:35px;
+  border-radius: 10px;
+  text-decoration: none;
+  width: 50%;
+  text-align: center;
+}
